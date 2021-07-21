@@ -1,16 +1,13 @@
-### Hi there 👋
 
-<!--
-**ShenTengTu/ShenTengTu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShenTengTu&layout=compact)](https://github-readme-stats.vercel.app/)
+> Not `Verilog`, is [`V language`](https://vlang.io/)
 
-Here are some ideas to get you started:
+---
+## Contributed to
+[![vlang/v](https://github-readme-stats.vercel.app/api/pin/?username=vlang&repo=v)](https://github.com/ShenTengTu/v)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![vlang/coreutils](https://github-readme-stats.vercel.app/api/pin/?username=vlang&repo=coreutils)](https://github.com/ShenTengTu/coreutils)
+
+---
+
+[![GitHub Status](https://github-readme-stats.vercel.app/api?username=ShenTengTu)](https://github-readme-stats.vercel.app/)
